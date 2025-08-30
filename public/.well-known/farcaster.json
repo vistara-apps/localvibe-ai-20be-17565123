@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LocalVibe AI",
+    "subtitle": "Built with Zara",
+    "description": "LocalVibe AI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://20be978c-407e-4fe2-be00-9443bfd5c3cc.vistara.dev",
+    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "tagline": "LocalVibe AI",
+    "screenshotUrls": [
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://20be978c-407e-4fe2-be00-9443bfd5c3cc.vistara.dev/api/webhook"
+  }
+}
